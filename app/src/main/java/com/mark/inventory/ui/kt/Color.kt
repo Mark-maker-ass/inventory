@@ -1,4 +1,4 @@
-package com.mark.inventory.ui.theme
+package com.mark.inventory.ui.kt
 
 import androidx.compose.ui.graphics.Color
 
