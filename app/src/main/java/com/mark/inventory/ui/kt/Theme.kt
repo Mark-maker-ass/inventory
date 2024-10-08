@@ -1,6 +1,5 @@
-package com.mark.inventory.ui.theme
+package com.mark.inventory.ui.kt
 
-import android.app.Activity
 import android.os.Build
 import androidx.compose.foundation.isSystemInDarkTheme
 import androidx.compose.material3.MaterialTheme
